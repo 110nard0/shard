@@ -10,10 +10,10 @@ This is a repo of practice files from the online HTML & CSS Tutorial at [Interne
 
 ### License
 > All code that appears on InternetingIsHard.com is licensed 
-under the [Creative Commons Zero License]. 
-> Text, images, and other non-code content are attributed 
-to the creator of the [InternetingIsHard] website
+> under the [Creative Commons Zero License].
 
+> Text, images, and other non-code content are attributed 
+> to the creator of the [InternetingIsHard] website.
 
 
 [InternetingIsHard]: <https://internetingishard.com>
