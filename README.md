@@ -8,6 +8,8 @@ This is a repo of practice files from the online HTML & CSS Tutorial at [Interne
 - Responsive Design
 - Web Typography
 
+The final project from the last chapter can be viewed on [CodePen].
+
 ### License
 > All code that appears on InternetingIsHard.com is licensed 
 > under the [Creative Commons Zero License].
@@ -17,4 +19,5 @@ This is a repo of practice files from the online HTML & CSS Tutorial at [Interne
 
 
 [Interneting Is Hard]: <https://internetingishard.com>
+[CodePen]: <https://codepen.io/110nard0/project/editor/ZzpgrM>
 [Creative Commons Zero License]: <https://creativecommons.org/publicdomain/zero/1.0/>
