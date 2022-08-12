@@ -1,5 +1,5 @@
 # Interneting is Hard
-This is a repo of practice files from the online HTML & CSS Tutorial at [InternetingIsHard].
+This is a repo of practice files from the online HTML & CSS Tutorial at [Interneting Is Hard].
 
 ## Topics learned:
 - HTML Forms
@@ -13,8 +13,8 @@ This is a repo of practice files from the online HTML & CSS Tutorial at [Interne
 > under the [Creative Commons Zero License].
 
 > Text, images, and other non-code content are attributed 
-> to the creator of the [InternetingIsHard] website.
+> to the creator of the [Interneting Is Hard] website.
 
 
-[InternetingIsHard]: <https://internetingishard.com>
+[Interneting Is Hard]: <https://internetingishard.com>
 [Creative Commons Zero License]: <https://creativecommons.org/publicdomain/zero/1.0/>
